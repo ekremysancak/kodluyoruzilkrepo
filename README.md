@@ -8,6 +8,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
 Öncelikle projeyi clonelayın. [İlk Repom](https://github.com/ekremysancak/kodluyoruzilkrepo.git)
 
+![Odev Gorseli](https://github.com/ekremysancak/kodluyoruzilkrepo/blob/main/deneme1.png)
 
 ```
 git clone https://github.com/ekremysancak/kodluyoruzilkrepo.git
