@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-[Patika - Her yolun başı](www.patika.dev)
+[Patika - Her yolun başı](https://www.patika.dev/tr)
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor.
 
